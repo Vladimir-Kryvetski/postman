@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Vova",
+        "email_prefix": "vova",
+        "gender": "male",
+        "status": "active"
+    },
+
+    {
+        "name": "Nika",
+        "email_prefix": "nika",
+        "gender": "female",
+        "status": "active"
+    },
+
+    {
+        "name": "Alina",
+        "email_prefix": "alina",
+        "gender": "female",
+        "status": "active"
+    }
+]
